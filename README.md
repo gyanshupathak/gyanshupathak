@@ -1,16 +1,33 @@
-## Hi there 👋
+💻 Welcome to My GitHub Profile! 🚀
 
-<!--
-**gyanshupathak/gyanshupathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I'm Gyanshu, a 3rd Year Student at IIT Roorkee exploring different things!
 
-Here are some ideas to get you started:
+📜 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m learning Rust, Solana, Ethereum and zero-knowledge proofs.
+
+Member @Blocsociitr , ex Intern @Genloop @OxAADI
+
+🌟 My Skills
+
+Next.js 🔥
+
+Node.js 🟢
+
+MongoDB 
+
+Express.js 🛠️
+
+Solidity 📜
+
+Foundry 🛠️
+
+Solana 🌊
+
+I also loves Designing
+
+🌍 Design Portfolio :  https://gyanshu.framer.website/
+
+
+Let’s collaborate and build something amazing together! 🚀
+
