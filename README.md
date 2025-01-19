@@ -1,33 +1,34 @@
-💻 Welcome to My GitHub Profile! 🚀
+# 💻 Welcome to My GitHub Profile! 🚀
 
 Hi there! 👋 I'm Gyanshu, a 3rd Year Student at IIT Roorkee exploring different things!
 
-📜 About Me
+---
 
-🌱 I’m learning Rust, Solana, Ethereum and zero-knowledge proofs.
+## 📜 About Me
 
-Member @Blocsociitr , ex Intern @Genloop @OxAADI
+🌱 I’m learning **Rust**, **Solana**, **Ethereum**, and **Zero-Knowledge Proofs**.
 
-🌟 My Skills
+👥 **Member** @Blocsociitr  
+💼 **Ex-Intern** @Genloop, @OxAADI  
 
-Next.js 🔥
+---
 
-Node.js 🟢
+## 🌟 My Skills
 
-MongoDB 
+- **Next.js** 🔥  
+- **Node.js** 🟢  
+- **MongoDB**  
+- **Express.js** 🛠️  
+- **Solidity** 📜  
+- **Foundry** 🛠️  
+- **Solana** 🌊  
 
-Express.js 🛠️
+---
 
-Solidity 📜
+## 🎨 I Also Love Designing!
 
-Foundry 🛠️
+🌍 **Design Portfolio**: [gyanshu.framer.website](https://gyanshu.framer.website/)
 
-Solana 🌊
-
-I also loves Designing
-
-🌍 Design Portfolio :  https://gyanshu.framer.website/
-
+---
 
 Let’s collaborate and build something amazing together! 🚀
-
