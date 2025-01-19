@@ -8,7 +8,7 @@ Hi there! 👋 I'm Gyanshu, a 3rd Year Student at IIT Roorkee exploring differen
 
 🌱 I’m learning **Rust**, **Solana**, **Ethereum**, and **Zero-Knowledge Proofs**.
 
-👥 **Member** @Blocsociitr  
+👥 **Member** [Repository Name]([https://github.com/BlocSoc-iitr])
 💼 **Ex-Intern** @Genloop, @OxAADI  
 
 ---
