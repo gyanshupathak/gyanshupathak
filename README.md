@@ -1,6 +1,6 @@
 # 💻 Welcome to My GitHub Profile! 🚀
 
-Hi there! 👋 I'm Gyanshu, a 3rd Year Student at IIT Roorkee exploring different things!
+Hi there! 👋 I'm Gyanshu, a 3rd Year Student at IIT Roorkee exploring web3!
 
 ---
 
