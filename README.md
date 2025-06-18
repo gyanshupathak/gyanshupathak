@@ -1,28 +1,25 @@
-# 💻 Welcome to My GitHub Profile! 🚀
+# Welcome to My GitHub Profile! 🚀
 
-Hi there! 👋 I'm Gyanshu, a 3rd Year Student at IIT Roorkee exploring web3!
-
----
-
-## 📜 About Me
-
-🌱 I’m learning **Rust**, **Solana**, **Ethereum**, and **Zero-Knowledge Proofs**.
-
-👥 **Dev** @LucidlyFinance
-👥 **Member** [Blocsociitr](https://github.com/BlocSoc-iitr)
-💼 **Ex-Intern** [Genloop](https://github.com/genloop), [AADI](https://bitbucket.org/rrpadhy/workspace/overview/)  
+Hi there! Gyanshu this side, a Final Year Student at IIT Roorkee exploring web3!
 
 ---
 
-## 🌟 My Skills
+## About Me
 
-- **Next.js** 🔥  
-- **Node.js** 🟢  
+**Dev** [Lucidly Labs](https://github.com/lucidlylabs)
+**Member** [Blocsociitr](https://github.com/BlocSoc-iitr)
+**Ex-Intern** [Genloop](https://github.com/genloop), [AADI Labs](https://bitbucket.org/rrpadhy/workspace/overview/)  
+
+---
+
+## My Skills
+
+- **Next.js** 
+- **Node.js**   
 - **MongoDB**  
-- **Express.js** 🛠️  
+- **Express.js**  
 - **Solidity** 📜  
-- **Foundry** 🛠️  
-- **Solana** 🌊  
+- **Foundry** 🛠️    
 
 ---
 
