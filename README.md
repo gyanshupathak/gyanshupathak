@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 🚀
+# Welcome to My GitHub Profile!
 
 Hi there! Gyanshu this side, a Final Year Student at IIT Roorkee exploring web3!
 
@@ -18,15 +18,15 @@ Hi there! Gyanshu this side, a Final Year Student at IIT Roorkee exploring web3!
 - **Node.js**   
 - **MongoDB**  
 - **Express.js**  
-- **Solidity** 📜  
-- **Foundry** 🛠️    
+- **Solidity**
+- **Foundry**    
 
 ---
 
-## 🎨 I Also Love Designing!
+## I Also Love Designing!
 
-🌍 **Design Portfolio**: [gyanshu.framer.website](https://gyanshu.framer.website/)
+**Design Portfolio**: [gyanshu.framer.website](https://gyanshu.framer.website/)
 
 ---
 
-Let’s collaborate and build something amazing together! 🚀
+Let’s collaborate and build something amazing together!
