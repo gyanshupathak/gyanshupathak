@@ -6,9 +6,8 @@ Hi there! Gyanshu this side, a Final Year Student at IIT Roorkee exploring web3!
 
 ## About Me
 
-**Ex Engineer** [Lucidly Labs](https://github.com/lucidlylabs)
+**Ex Engineer** [Lucidly Labs](https://github.com/lucidlylabs) [Genloop](https://github.com/genloop) [AADI Labs](https://bitbucket.org/rrpadhy/workspace/overview/)  
 **Member** [Blocsociitr](https://github.com/BlocSoc-iitr)
-**Ex-Intern** [Genloop](https://github.com/genloop), [AADI Labs](https://bitbucket.org/rrpadhy/workspace/overview/)  
 
 ---
 
