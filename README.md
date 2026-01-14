@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hi there! Gyanshu this side, a Final Year Student at IIT Roorkee exploring web3!
+Hi there! Gyanshu this side, a Final Year Student at IIT Roorkee exploring ai/web3!
 
 ---
 
